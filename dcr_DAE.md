@@ -2,7 +2,7 @@
 
 ![logo](img/header.png )
 
-This article is a follow up on the [Decred 2018 roadmap](https://blog.decred.org/2018/02/28/2018-Decred-Roadmap/) in which Decentralized Autonomous Entities (DAE) was mentioned. I believe DAE is the most critical item that most people overlook. I am not a developer, so I am sure there are many factual errors in this article, but I hope to spark discussions by describing how I think Decred can evolve. If my envisioning future is possible, there will be massive demand to use the Decred blockchain. 
+This article is a follow up on the [Decred 2018 roadmap](https://blog.decred.org/2018/02/28/2018-Decred-Roadmap/) in which Decentralized Autonomous Entities (DAE) was mentioned. I believe DAE is the most critical item that most people overlook. I am not a developer, so I am sure there are many factual errors in this article, but I hope to spark discussions by describing how I think Decred can evolve. If my envisioning future is possible, there will be massive demand to use the Decred blockchain, and further estabish Decred as a superior store of value (SoV).
 
 Decred was created to be a better version of Bitcoin, and this vision can be ultimately realized by setting up an ecosystem that allows the creation of DAEs on the Decred blockchain. Such an ecosystem can be used to store value, make payment and co-ordinate workforces. To realize such a vision, Decred has to first completely transform itself into a DAE and set as an example to convince people the value of such an innovative organizational structure. At this moment, Decred is the most successful project working towards this goal. The recently passed proposal to decentralize treasury spending is a key step towards an ultimate DAE. After the proposal is implemented, Decred would be the first DAE working prototype. 
 
@@ -16,7 +16,7 @@ After being established as a DAE prototype, Decred still has some items to imple
 
 ### Decred as a DAE Infrastructure Provider
 After Decred becomes a true DAO/DAE, the next step is to help other suitable organizations to transform into a DAE. Which organizations are suitable DAE candidates? Charities, NGOs, and non-profit organizations. These entities don’t compete for profits, so they can afford to be less efficient. In contrast, openness, transparency, and fairness are much more important. A DAE structure can effectively help these non-profit entities to save operational expenses associated with keeping itself transparent and to enable a global team structure that can easily scale.
-### How can Decred help organizations transform to DAE?
+### DAE built on Decred
 We can develop an open source DAE module based on the Decred system to help organizations transform to DAE. It doesn’t make sense for these organizations to create their own blockchains because of the huge overhead associated with maintaining a blockchain. What they need is a DAE token system that can be anchored on a secure and permissionless blockchain, such as Decred. 
 
 Decred can potentially allow the creation of DAE tokens based on OP_Return. A set of DAE tokens is needed for each DAE, and they are solely used as vehicles for voting within the DAE. DAE tokens are needed because DCR is a store of value, not a utility token. The amount of DAE token a person owns is directly proportional to his/her voice in the DAE. Each DAE will operate their own proposal system similar to Politeia. Decisions making and treasury management will be done in a transparent and decentralized manner similar to how Decred operates. 
