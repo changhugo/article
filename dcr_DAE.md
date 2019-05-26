@@ -39,6 +39,7 @@ This article is written solely to encourage discussions around the possibility o
 
 
 
-Arthor: neil_nie <br/>
+
+Author: neil_nie <br/>
 Editor & Translator: changhugo <br/>
 [Original article](https://blog.dcrclub.org/chapter_05/dcr_DAE.html) 
