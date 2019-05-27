@@ -2,7 +2,7 @@
 
 ![logo](img/header.png )
 
-This article is a follow up on the [2108 Decred roadmap](https://blog.decred.org/2018/02/28/2018-Decred-Roadmap/) in which Decentralized Autonomous Entities (DAE) was mentioned. I am not a developer, so there could be many factual errors in this article, but I hope to spark discussions by describing how I think Decred can evolve. If my envisioning future is feasible, there will be massive demand to use the Decred blockchain, and will further establish Decred as a superior store of value (SoV).
+This article is a follow up on the [2018 Decred roadmap](https://blog.decred.org/2018/02/28/2018-Decred-Roadmap/) in which Decentralized Autonomous Entities (DAE) was mentioned. I am not a developer, so there could be many factual errors in this article, but I hope to spark discussions by describing how I think Decred can evolve. If my envisioning future is feasible, there will be massive demand to use the Decred blockchain, and will further establish Decred as a superior store of value (SoV).
 
 Decred was created to be a better version of Bitcoin, and this vision can be ultimately realized by setting up an ecosystem that allows the creation of DAEs on the Decred blockchain. Such an ecosystem can be used to store value, make payment and co-ordinate workforces. To realize such a vision, Decred has to first completely transform itself into a DAE and set as an example to convince people the value of such innovative organizational structure. At this moment, Decred is the most successful project working towards this goal. The recently passed proposal to [decentralize treasury spending](https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f) is a key step towards a DAE. 
 
