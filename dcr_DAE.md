@@ -4,15 +4,14 @@
 
 This article is a follow up on the [2108 Decred roadmap](https://blog.decred.org/2018/02/28/2018-Decred-Roadmap/) in which Decentralized Autonomous Entities (DAE) was mentioned. I am not a developer, so there could be many factual errors in this article, but I hope to spark discussions by describing how I think Decred can evolve. If my envisioning future is feasible, there will be massive demand to use the Decred blockchain, and will further establish Decred as a superior store of value (SoV).
 
-Decred was created to be a better version of Bitcoin, and this vision can be ultimately realized by setting up an ecosystem that allows the creation of DAEs on the Decred blockchain. Such an ecosystem can be used to store value, make payment and co-ordinate workforces. To realize such a vision, Decred has to first completely transform itself into a DAE and set as an example to convince people the value of such an innovative organizational structure. At this moment, Decred is the most successful project working towards this goal. The recently passed proposal to [decentralize treasury spending](https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f) is a key step towards a DAE. After the proposal is implemented, Decred would be the first DAE working prototype. 
+Decred was created to be a better version of Bitcoin, and this vision can be ultimately realized by setting up an ecosystem that allows the creation of DAEs on the Decred blockchain. Such an ecosystem can be used to store value, make payment and co-ordinate workforces. To realize such a vision, Decred has to first completely transform itself into a DAE and set as an example to convince people the value of such innovative organizational structure. At this moment, Decred is the most successful project working towards this goal. The recently passed proposal to [decentralize treasury spending](https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f) is a key step towards a DAE. 
 
  ### Decred as a true DAE
-After being established as a DAE prototype, Decred still has some items to implement to become a true DAE that I envision:
+After treasury spending is decentralized, Decred still has some items to implement to become a true DAE that I envision:
 1. After each proposal is approved, there needs to be a system to track implementation status.  It can be an extension of the [contractor management system](https://github.com/decred/contractor-mgmt) (CMS) that helps the community to easily track project status. Such a system will serve as the foundation of budget planning.
-2. [Decentralizing treasury spending]((https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f)) has to be implemented.
-3. We need to create a special kind of address that can only be spent by a smart contract controlled by Politeia. I call this new address as “treasury address”, which I will explain later. 
-4. We need to make sure [VSPs](https://docs.decred.org/faq/proof-of-stake/voting-service-providers/) are not allowed to change the votes selected by PoS stakers.  This can further decentralize Decred and protect the system against attacks. 
-5. We need to further decentralize Politeia by setting up multiple instances that are managed by different contractors who govern each other. Decentralizing Politeia can make sure there is no single point of failure. 3-5 Politeia operators can be elected by stakeholders and they will be funded by the treasury. 
+2. We need to create a special kind of address that can only be spent by a smart contract controlled by Politeia. I call this new address “treasury address”, which I will explain later. 
+3. We need to make sure [VSPs](https://docs.decred.org/faq/proof-of-stake/voting-service-providers/) are not allowed to change the votes selected by PoS stakers.  This can further decentralize Decred and protect the system against attacks. 
+4. We need to further decentralize Politeia by setting up multiple instances that are managed by different contractors who govern each other. Decentralizing Politeia can make sure there is no single point of failure. 3-5 Politeia operators can be elected by stakeholders and they will be funded by the treasury. 
 
 ### Decred as a DAE Infrastructure Provider
 After Decred becomes a true DAO/DAE, the next step is to help other suitable organizations to transform into DAE. Which organizations are suitable DAE candidates? Charities, NGOs, and non-profit organizations. These entities do not compete for profits, so they can afford to be less efficient. In contrast, openness, transparency, and fairness are much more important. A DAE structure can effectively help these non-profit entities to save operational expenses associated with keeping themselves transparent and to enable a global team structure that can easily scale.
@@ -35,11 +34,9 @@ This use case of Decred serving as a DAE infrastructure provider (DIP) has multi
 3. Consistent with Decred's current roadmap. The two major projects on the horizon are decentralizing treasury spending and the [DEX](https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/). The former is the prerequisite for Decred to become a DIP, and the later will greatly help providing liquidity for DAE to acquire DCR to store value.
 
 ### Discussions are welcomed
-This article is written solely to encourage discussions around the possibility of Decred serving as the leader to provide infrastructure for DAE. This is a future I envision for Decred, but I would not be surprised if Decred takes a different route if stakeholders have something else in mind. The reason why I hold Decred is the possibility of stakeholders to shape the future of the project, which is not possible elsewhere. I had lengthy discussions with the Chinese community, and I hope to engage in discussions with the rest of the community.
+This article is written solely to encourage discussions around the possibility of Decred serving as the leader to provide infrastructure for DAE. This is a future I envision for Decred, but I would not be surprised if Decred takes a different route because stakeholders have something else in mind. The reason why I hold Decred is the possibility of stakeholders to shape the future of the project, which is not possible elsewhere. I had lengthy discussions with the Chinese community, and I hope to engage in discussions with the rest of the community.
 
-
-
-
+ <br/>
 Author: neil_nie <br/>
-Editor & Translator: changhugo <br/>
+Editor: changhugo <br/>
 [Original article](https://blog.dcrclub.org/chapter_05/dcr_DAE.html) 
